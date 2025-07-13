@@ -6,7 +6,7 @@ import {ThemedText} from "../../components/ThemedText";
 export default function TabLastScreen() {
     return (
         <SafeAreaView>
-            <ThemedText type="title">Profile</ThemedText>
+            <ThemedText type="title">My Schedule</ThemedText>
         </SafeAreaView>
     )
 }

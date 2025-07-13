@@ -1,6 +1,7 @@
 import {StyleSheet, Text, View} from 'react-native';
+import {SafeAreaView} from 'react-native-safe-area-context';
 
-const Home = () => {
+export default function HomeScreen() {
     return (
         <SafeAreaView style={{flex:1}}>
             <Text>Home</Text>
@@ -8,6 +9,4 @@ const Home = () => {
     )
 }
 
-export default Home;
 
-const styles = StyleSheet.create({})

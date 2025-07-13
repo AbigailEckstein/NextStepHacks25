@@ -3,10 +3,10 @@ import {SafeAreaView} from 'react-native-safe-area-context';
 import {ThemedView} from "../../components/ThemedView";
 import {ThemedText} from "../../components/ThemedText";
 
-export default function TabLastScreen() {
+export default function TabExerciseScreen() {
     return (
         <SafeAreaView>
-            <ThemedText type="title">Profile</ThemedText>
+            <ThemedText type="title">My Exercises</ThemedText>
         </SafeAreaView>
     )
 }
