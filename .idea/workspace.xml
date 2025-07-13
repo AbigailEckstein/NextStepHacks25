@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5406df3a-273c-4004-8ee5-d36be24f3e4c" name="Changes" comment="Expo">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ourApp/app/(tabs)/profile.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ourApp/app/ogIndex.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ourApp/app/(tabs)/_layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/ourApp/app/(tabs)/_layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ourApp/app/(tabs)/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/ourApp/app/(tabs)/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ourApp/scripts/reset-project.js" beforeDir="false" afterPath="$PROJECT_DIR$/ourApp/scripts/reset-project.js" afterDir="false" />
+    </list>
+    <list id="31bc4769-97c9-4625-8f8d-bd40cffe9022" name="Changes by 16087" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" show_ignored="true" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="TypeScript JSX File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "AbigailEckstein"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/AbigailEckstein/NextStepHacks25.git",
+    "accountId": "8a61ca6e-d8a5-4f5a-87b5-70fe7565b195"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2zkUR0Wh4EUX4qWFQfzc0hseQqo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "React Native.Android.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "abi",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/abiga/IdeaProjects/ourAppNSH",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "C:/Users/abiga/AppData/Roaming/JetBrains/IntelliJIdea2024.3/node/versions/20.15.0/node",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "ts.external.directory.path": "C:\\Users\\abiga\\IdeaProjects\\ourAppNSH\\ourApp\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\abiga\IdeaProjects\ourAppNSH\ourApp\app\(tabs)" />
+      <recent name="C:\Users\abiga\IdeaProjects\ourAppNSH\ourApp\app" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Android" type="ReactNative" factoryName="React Native">
+      <working-dir value="$PROJECT_DIR$" />
+      <node-interpreter value="project" />
+      <react-native value="$PROJECT_DIR$/node_modules/react-native" />
+      <platform value="ANDROID" />
+      <envs />
+      <only-packager />
+      <method v="2">
+        <option name="ReactNativePackager" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.22562.218" />
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-IU-243.22562.218" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5406df3a-273c-4004-8ee5-d36be24f3e4c" name="Changes" comment="" />
+      <created>1752274555193</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1752274555193</updated>
+      <workItem from="1752274556383" duration="22836000" />
+    </task>
+    <task id="LOCAL-00001" summary="Test">
+      <option name="closed" value="true" />
+      <created>1752278592432</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1752278592432</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Test">
+      <option name="closed" value="true" />
+      <created>1752282249036</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1752282249036</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Test">
+      <option name="closed" value="true" />
+      <created>1752283655384</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1752283655384</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Expo">
+      <option name="closed" value="true" />
+      <created>1752294489988</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1752294489988</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Test" />
+    <MESSAGE value="Expo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Expo" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
